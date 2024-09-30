@@ -1,0 +1,26 @@
+/* /Pages/MassiveZXlsx.razor.rz.scp.css */
+table[b-51vjh96mjk], th[b-51vjh96mjk], td[b-51vjh96mjk] {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table[b-51vjh96mjk] {
+    border: none;
+}
+
+tr:nth-child(even)[b-51vjh96mjk] {
+    background-color: gainsboro;
+}
+
+td[b-51vjh96mjk] {
+    text-align: right;
+}
+
+tfoot tr td[b-51vjh96mjk] {
+    font-weight: bold;
+    border: none;
+}
+
+td[b-51vjh96mjk] {
+    padding: 5px;
+}
